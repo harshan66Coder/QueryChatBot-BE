@@ -4,7 +4,7 @@ export async function getEmbedding(text, apiKey, model = "deepseek/deepseek-embe
     const resp = await fetch("https://openrouter.ai/v1/embeddings", {
         method: "POST",
         headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
-        body: JSON.stringify({ model, input: text }),
+        body: JSON.stringify({ model, input: text }), 
     });
 
     const bodyText = await resp.text();

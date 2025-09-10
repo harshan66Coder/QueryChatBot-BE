@@ -1,0 +1,14 @@
+{
+  "text": "LLaMA 3 70B,Alibaba,Text generation,118,2025,98.84",
+  "vector": [],
+  "meta": {
+    "line": 8,
+    "source": "1757422263373-f244001d654e.csv",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 1
+      }
+    }
+  }
+}

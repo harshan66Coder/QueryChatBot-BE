@@ -1,0 +1,21 @@
+Model Name,Company,Use Case,Parameters (B),Release Year,Benchmark Score
+Claude 3 Sonnet,Cohere,Translation,36,2024,75.07
+Gemini 1.5 Pro,Alibaba,Chatbot,36,2024,83.01
+GPT-4-turbo,Google DeepMind,Data analysis,166,2025,81.71
+GPT-4-turbo,Cohere,Coding assistant,43,2023,71.14
+Gemini 1.5 Pro,xAI,Chatbot,60,2025,85.46 
+Yi-34B,Huawei,Text generation,158,2025,74.19
+LLaMA 3 70B,Alibaba,Text generation,118,2025,98.84
+Command R+,Mistral,Data analysis,114,2024,81.08
+Command R+,Alibaba,Image generation,91,2023,73.94
+GPT-4o,xAI,Data analysis,30,2023,91.77
+GPT-4o,OpenAI,Chatbot,148,2024,88.47
+Command R+,xAI,Translation,27,2024,77.08
+GPT-4o,Huawei,Coding assistant,107,2023,81.97
+GPT-4-turbo,Mistral,Translation,137,2024,78.09
+Gemini 1.5 Flash,Tencent,Translation,96,2024,97.48
+Gemini 1.5 Flash,Cohere,Coding assistant,10,2024,75.67
+Gemini 1.5 Pro,Huawei,Coding assistant,110,2024,81.85
+GPT-4-turbo,Meta,Image generation,113,2025,82.11
+Yi-34B,Alibaba,Data analysis,10,2024,85.72
+GPT-4o,Google DeepMind,Coding assistant,59,2023,87.31

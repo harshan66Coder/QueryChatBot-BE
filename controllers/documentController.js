@@ -4,7 +4,7 @@ import crypto from "crypto";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import Document from "../models/Document.js";
 import { CSVLoader, SQLiteLoader } from "../utils/loaders.js";
-import { getEmbedding, generateLLMResponse } from "../utils/embeddings.js";
+import { getEmbedding, generateLLMResponse } from "../utils/embeddings.js"; 
 
 // Directories
 const STORED_FILES_DIR = path.join(process.cwd(), "stored_files");

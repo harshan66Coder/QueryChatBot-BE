@@ -1,0 +1,14 @@
+{
+  "text": "Claude 3 Sonnet,Cohere,Translation,36,2024,75.07",
+  "vector": [],
+  "meta": {
+    "line": 2,
+    "source": "1757422263373-f244001d654e.csv",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 1
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@ import sqlite3 from "sqlite3";
 import { Document as LC_Document } from "langchain/document";
 
 export class CSVLoader {
-    constructor(filePath) { this.filePath = filePath; }
+    constructor(filePath) { this.filePath = filePath; } 
     async load() {
         const text = fs.readFileSync(this.filePath, "utf-8");
         return text.split("\n").filter(Boolean).map((line, i) => new LC_Document({

@@ -3,7 +3,7 @@ import { Document } from "langchain/document";
 
 export class SQLiteCustomLoader {
   constructor(filePath) {
-    this.filePath = filePath;
+    this.filePath = filePath; 
   }
 
   async load() {

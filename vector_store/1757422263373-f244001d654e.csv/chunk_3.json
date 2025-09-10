@@ -1,0 +1,14 @@
+{
+  "text": "GPT-4-turbo,Google DeepMind,Data analysis,166,2025,81.71",
+  "vector": [],
+  "meta": {
+    "line": 4,
+    "source": "1757422263373-f244001d654e.csv",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 1
+      }
+    }
+  }
+}

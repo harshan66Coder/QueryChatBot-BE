@@ -1,0 +1,14 @@
+{
+  "text": "Yi-34B,Alibaba,Data analysis,10,2024,85.72",
+  "vector": [],
+  "meta": {
+    "line": 20,
+    "source": "1757422263373-f244001d654e.csv",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 1
+      }
+    }
+  }
+}

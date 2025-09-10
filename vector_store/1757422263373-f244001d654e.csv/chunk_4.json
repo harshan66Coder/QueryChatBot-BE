@@ -1,0 +1,14 @@
+{
+  "text": "GPT-4-turbo,Cohere,Coding assistant,43,2023,71.14",
+  "vector": [],
+  "meta": {
+    "line": 5,
+    "source": "1757422263373-f244001d654e.csv",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 1
+      }
+    }
+  }
+}

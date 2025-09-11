@@ -83,7 +83,7 @@ export const uploadFiles = async (req, res) => {
 
 export const getQuestions = async (req, res) => {
   try {
-    const { apiKey, model, q, topk } = req.query;  // ✅ read from body instead of query
+    const { apiKey, model, q, topk } = req.query;  
     if (!apiKey) return res.status(400).json({ error: "API key is required" });
 
     const { docId } = req.params;
